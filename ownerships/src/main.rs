@@ -65,8 +65,6 @@ fn main() {
     //s.clear(); // error!
 
     println!("the first word is: {word}");
-
-
 }
 
 fn takes_ownership(some_string: String){

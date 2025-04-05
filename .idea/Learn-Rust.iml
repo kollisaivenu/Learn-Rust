@@ -9,12 +9,16 @@
       <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/testRust/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ownerships/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic_traits_lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello_world_cargo/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/collections/target" />
       <excludeFolder url="file://$MODULE_DIR$/enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/errors/target" />
       <excludeFolder url="file://$MODULE_DIR$/structs/target" />
       <excludeFolder url="file://$MODULE_DIR$/testRust/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownerships/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generic_traits_lifetimes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_world_cargo/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
