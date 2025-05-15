@@ -11,6 +11,18 @@
       <sourceFolder url="file://$MODULE_DIR$/ownerships/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/generic_traits_lifetimes/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hello_world_cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/restaurant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/func_programming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrency/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello_async/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/add/add_one/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/add/adder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/packages/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pattern/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/collections/target" />
       <excludeFolder url="file://$MODULE_DIR$/enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/errors/target" />
@@ -19,6 +31,17 @@
       <excludeFolder url="file://$MODULE_DIR$/ownerships/target" />
       <excludeFolder url="file://$MODULE_DIR$/generic_traits_lifetimes/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_world_cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/restaurant/target" />
+      <excludeFolder url="file://$MODULE_DIR$/func_programming/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrency/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_async/target" />
+      <excludeFolder url="file://$MODULE_DIR$/add/target" />
+      <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
+      <excludeFolder url="file://$MODULE_DIR$/oops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pattern/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

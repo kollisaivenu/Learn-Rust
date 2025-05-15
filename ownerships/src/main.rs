@@ -98,3 +98,4 @@ fn first_word(s: &String) -> &str {
 
     &s[..]
 }
+
