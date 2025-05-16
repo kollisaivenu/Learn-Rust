@@ -23,6 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/oops/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/packages/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pointers/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/collections/target" />
       <excludeFolder url="file://$MODULE_DIR$/enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/errors/target" />
@@ -42,6 +43,7 @@
       <excludeFolder url="file://$MODULE_DIR$/oops/target" />
       <excludeFolder url="file://$MODULE_DIR$/packages/target" />
       <excludeFolder url="file://$MODULE_DIR$/pattern/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pointers/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
